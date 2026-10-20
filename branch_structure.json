@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "docs/add-testnet-troubleshooting",
+    "main",
+    "me/wave-4",
+    "origin"
+  ],
+  "parent": {
+    "docs/add-testnet-troubleshooting": "main",
+    "main": null,
+    "me/wave-4": "main",
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "docs/add-testnet-troubleshooting",
+    "me/wave-4",
+    "origin"
+  ]
+}
